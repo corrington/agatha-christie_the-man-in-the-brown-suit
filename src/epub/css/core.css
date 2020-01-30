@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
 body{
@@ -6,9 +6,11 @@ body{
 	-epub-hyphens: auto;
 }
 
-p{
+p {
 	margin: 0;
 	text-indent: 1em;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 
 hr{
