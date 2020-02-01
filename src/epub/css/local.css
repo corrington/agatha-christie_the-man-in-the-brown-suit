@@ -1,75 +1,74 @@
-﻿@charset "utf-8";
-@namespace epub "http://www.idpf.org/2007/ops";
-p.firstpara {
-    text-indent: 0em;
+﻿ "utf-8";
+epub "http://www.idpf.org/2007/ops";
+p.firstpara{
+	text-indent: 0;
 }
 
-p.firstpara:first-letter {
-    font-size: 200%;
-    /* not using drop-caps because they are inconsistently rendered */
+p.firstpara:first-letter{
+	font-size: 200%; /* not using drop-caps because they are inconsistently rendered */
 }
 
-.firstword {
-    text-transform: uppercase;
+.firstword{
+	text-transform: uppercase;
 }
 
-.capitals {
-    font-size: 0.75em;
-    text-transform: uppercase;
+.capitals{
+	font-size: 0.75em;
+	text-transform: uppercase;
 }
 
-.smcaps {
-    font-variant: small-caps;
+.smcaps{
+	font-variant: small-caps;
 }
 
-div.centered {
-    text-align: center;
+div.centered{
+	text-align: center;
 }
 
-div.placeleft {
-    text-indent: 0em;
+div.placeleft{
+	text-indent: 0;
 }
 
-div.placeleft2 {
-    text-indent: 0em;
-    font-variant: small-caps;
+div.placeleft2{
+	text-indent: 0;
+	font-variant: small-caps;
 }
 
-div.placeright {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    text-align: right;
-    font-variant: small-caps;
+div.placeright{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: right;
+	font-variant: small-caps;
 }
 
-div.placeright0 {
-    margin-top: 1em;
-    margin-bottom: 0em;
-    text-align: right;
-    font-variant: small-caps;
+div.placeright0{
+	margin-top: 1em;
+	margin-bottom: 0;
+	text-align: right;
+	font-variant: small-caps;
 }
 
-div.placeright1 {
-    margin-top: 0em;
-    margin-bottom: 1em;
-    text-align: right;
+div.placeright1{
+	margin-top: 0;
+	margin-bottom: 1em;
+	text-align: right;
 }
 
-div.placeright2 {
-    margin-top: 1em;
-    margin-bottom: 0em;
-    text-align: right;
+div.placeright2{
+	margin-top: 1em;
+	margin-bottom: 0;
+	text-align: right;
 }
 
-div.placeright3 {
-    margin-top: 0em;
-    margin-bottom: 1em;
-    text-align: right;
-    font-variant: small-caps;
+div.placeright3{
+	margin-top: 0;
+	margin-bottom: 1em;
+	text-align: right;
+	font-variant: small-caps;
 }
 
-div.placeright4 {
-    margin-top: 0em;
-    margin-bottom: 0em;
-    text-align: right;
+div.placeright4{
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: right;
 }
