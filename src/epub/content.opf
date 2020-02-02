@@ -37,19 +37,14 @@
 		<dc:subject id="subject-5">Women adventurers -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008111620</meta>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/61168</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/61168</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008106611</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/61168</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008107761</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/61168</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/61168</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young English woman investigates a shocking “accidental” death.</dc:description>
