@@ -1,5 +1,6 @@
-﻿ "utf-8";
-epub "http://www.idpf.org/2007/ops";
+@charset "utf-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
 p.firstpara{
 	text-indent: 0;
 }
@@ -9,11 +10,6 @@ p.firstpara:first-letter{
 }
 
 .firstword{
-	text-transform: uppercase;
-}
-
-.capitals{
-	font-size: 0.75em;
 	text-transform: uppercase;
 }
 
@@ -34,13 +30,6 @@ div.placeleft2{
 	font-variant: small-caps;
 }
 
-div.placeright{
-	margin-top: 1em;
-	margin-bottom: 1em;
-	text-align: right;
-	font-variant: small-caps;
-}
-
 div.placeright0{
 	margin-top: 1em;
 	margin-bottom: 0;
@@ -51,12 +40,6 @@ div.placeright0{
 div.placeright1{
 	margin-top: 0;
 	margin-bottom: 1em;
-	text-align: right;
-}
-
-div.placeright2{
-	margin-top: 1em;
-	margin-bottom: 0;
 	text-align: right;
 }
 
@@ -71,4 +54,12 @@ div.placeright4{
 	margin-top: 0;
 	margin-bottom: 0;
 	text-align: right;
+}
+
+.sign{
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+	font-variant: small-caps;
+	border: 1px solid;
 }
